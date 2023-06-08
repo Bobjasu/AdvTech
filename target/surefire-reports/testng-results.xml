@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-08T12:07:10 IST" name="Surefire suite" finished-at="2023-06-08T12:08:48 IST" duration-ms="98056">
+    <groups>
+      <group name="RegressionTest">
+        <method signature="SampleTest.m1()[pri:0, instance:practice.SampleTest@33afa13b]" name="m1" class="practice.SampleTest"/>
+      </group> <!-- RegressionTest -->
+    </groups>
+    <test started-at="2023-06-08T12:07:10 IST" name="Surefire test" finished-at="2023-06-08T12:08:48 IST" duration-ms="98056">
+      <class name="practice.SampleTest">
+        <test-method signature="m1()[pri:0, instance:practice.SampleTest@33afa13b]" started-at="2023-06-08T12:07:10 IST" name="m1" finished-at="2023-06-08T12:08:48 IST" duration-ms="97970" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m1 -->
+      </class> <!-- practice.SampleTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
